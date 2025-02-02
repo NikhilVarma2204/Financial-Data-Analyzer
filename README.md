@@ -12,7 +12,7 @@ Financial Data Analyzer is an AI-powered tool that simplifies stock trend analys
 
 ## Tech Stack
 - **Frontend:** Streamlit
-- **AI Model:** OpenAI API (GPT-4o-mini)
+- **AI Model:** OpenAI API (GPT-3.5-turbo)
 - **Backend & Data Processing:** Python
 - **Data Source:** CSV financial datasets
 
