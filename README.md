@@ -36,7 +36,7 @@ Financial Data Analyzer is an AI-powered tool that simplifies stock trend analys
 
 ## Usage
 1. Select a stock from the dropdown.
-2. Choose a time span (1 year, 3 years, 5 years).
+2. Choose a time span (3 Months).
 3. Click **Analyze Data** to view predictions.
 
 ## Future Enhancements
